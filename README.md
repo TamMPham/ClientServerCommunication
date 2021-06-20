@@ -1,2 +1,2 @@
 # ClientServerCommunication
-Multithreaded server and client communication
+Multithreaded Server and Client communication
